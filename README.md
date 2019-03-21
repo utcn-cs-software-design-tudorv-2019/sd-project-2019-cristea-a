@@ -1,3 +1,13 @@
-Please modify this file so it contains ONLY your full name: Surname & First Name
+Auto Parts
 
-You can find the related resources at https://github.com/utcn-cs-software-design-tudorv-2019/LabInfo
+-implementing an application for a car parts shop
+-two types of users:client, admin
+
+Client:
+  -login
+  -buy
+  -search by product key
+ Admin:
+  -add/remove/update product
+  -login
+  
