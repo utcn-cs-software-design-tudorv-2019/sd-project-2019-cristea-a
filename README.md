@@ -1,7 +1,7 @@
 
 Auto Parts
 
--implementing an application for a car parts shop
+-implementing an web application for a car parts shop
 
 -two types of users:client, admin
 
